@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaultum/assets/main/logo.svg" alt="Vaultum Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/vaultum/.github/main/profile/logo.png" alt="Vaultum Logo" width="120" height="120">
   
   # Vaultum
   
