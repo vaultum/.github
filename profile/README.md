@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaultum/.github/main/profile/logo.png" alt="Vaultum Logo" width="120" height="120">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaultum/.github/main/profile/logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaultum/.github/main/profile/logo.png">
+    <img src="https://raw.githubusercontent.com/vaultum/.github/main/profile/logo.png" alt="Vaultum - Hexagonal Modular V Logo" width="140" height="140">
+  </picture>
   
   # Vaultum
   
@@ -274,23 +278,29 @@ php artisan test
 
 ## 🗺️ Roadmap
 
-### Phase 1: Foundation (Q4 2024) ✅
+### Phase 1: Foundation (Q1-Q2 2025) ✅
 - [x] ERC-4337 smart account implementation
-- [x] Basic security modules
-- [x] SDK development (JS/PHP)
-- [x] API infrastructure
+- [x] Basic security modules (Session Keys, Spending Limits)
+- [x] SDK development (JavaScript/PHP)
+- [x] API infrastructure with bundler integration
 
-### Phase 2: Enhancement (Q1 2025) 🚧
-- [ ] Advanced recovery mechanisms
+### Phase 2: Advanced Security (Q3 2025 - Current) 🚧
+- [x] Social Recovery Module (94% complete)
+- [ ] Multi-signature support
+- [ ] Dead man's switch
+- [ ] Privacy features
+
+### Phase 3: Cross-chain & Mobile (Q4 2025) 📱
 - [ ] Cross-chain message passing
 - [ ] Mobile app (React Native)
+- [ ] Hardware wallet integration
 - [ ] Fiat on/off ramps
 
-### Phase 3: Scale (Q2 2025) 📋
-- [ ] Multi-chain deployment
+### Phase 4: Scale & Enterprise (Q1 2026) 🚀
+- [ ] Multi-chain deployment (10+ chains)
 - [ ] DAO governance
 - [ ] DeFi integrations
-- [ ] Enterprise features
+- [ ] Enterprise features & compliance
 
 ---
 
