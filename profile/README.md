@@ -50,10 +50,11 @@ Open-source components for transparency and community contribution:
   `Solidity` `Foundry` `ERC-4337`
   
 - [**sdk-js**](https://github.com/vaultum/sdk-js) - JavaScript SDK  
-  `TypeScript` `npm` `ESM/CJS`
+  `TypeScript` `npm` `ESM/CJS`  
+  [![npm](https://img.shields.io/npm/v/@vaultum/sdk-js?style=flat-square&color=blue)](https://www.npmjs.com/package/@vaultum/sdk-js)
   
 - [**sdk-php**](https://github.com/vaultum/sdk-php) - PHP SDK  
-  `PHP 8.3+` `Composer` `PSR-4`
+  `PHP 8.4+` `Composer` `PSR-4`
 
 </td>
 <td width="50%">
@@ -347,7 +348,7 @@ Vaultum is open source software licensed under the [MIT License](LICENSE).
 ### For Developers
 
 [**API Docs**](https://api.vaultum.app/docs) • 
-[**npm Package**](https://www.npmjs.com/package/@vaultum/sdk) • 
+[**npm Package**](https://www.npmjs.com/package/@vaultum/sdk-js) • 
 [**Packagist**](https://packagist.org/packages/vaultum/sdk) • 
 [**GitHub Discussions**](https://github.com/orgs/vaultum/discussions)
 
